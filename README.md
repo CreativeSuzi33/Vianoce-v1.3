@@ -57,7 +57,7 @@ Aktualizácia aplikácie Vianoce obsahuje Vianočné koledy (sekcia Vianoce), Du
  - Sväté neviniatka
  - Svätý Ján
  - Svätý Štefan
- - štedrý večer
+ - Štedrý večer
  - Tajomstvá Ježišovho detstva
  - U Alžbety
  - Vianoce
